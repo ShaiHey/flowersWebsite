@@ -6,3 +6,20 @@ html, body {
 header, footer{
     text-align: center;
 }
+
+nav {
+    text-align: center;
+}
+
+a + a {
+  margin-left: 10px;
+}
+
+.img-flowers {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 250px;
+}
